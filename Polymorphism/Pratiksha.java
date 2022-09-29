@@ -1,0 +1,1 @@
+package polymorphism;public class Pratiksha extends Student {			void id()	{		System.out.println(20);	}		void std()	{		System.out.println("TyIt");	}}

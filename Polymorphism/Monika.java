@@ -1,0 +1,1 @@
+package polymorphism;public class Monika extends Student{		void id()	{		System.out.println(10);	}		void std()	{		System.out.println("SyIt");	}}

@@ -1,0 +1,1 @@
+package polymorphism;public class Swapnali extends Student {		void id()	{		System.out.println(30);	}		void std()	{		System.out.println("FyIt");	}}
